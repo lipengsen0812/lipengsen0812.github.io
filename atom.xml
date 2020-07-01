@@ -85,4 +85,29 @@
     
   </entry>
   
+  <entry>
+    <title>Markdown语法</title>
+    <link href="http://yoursite.com/2020/06/15/markdown-yu-fa/"/>
+    <id>http://yoursite.com/2020/06/15/markdown-yu-fa/</id>
+    <published>2020-06-15T07:46:59.000Z</published>
+    <updated>2020-07-01T07:06:52.230Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Markdown是一种纯文本格式的标记语言。通过简单的标记语法，它可以使普通文本内容具有一定的格式。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="教程" scheme="http://yoursite.com/categories/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="学习" scheme="http://yoursite.com/categories/%E6%95%99%E7%A8%8B/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="Markdown" scheme="http://yoursite.com/tags/Markdown/"/>
+    
+      <category term="学习笔记" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
 </feed>
